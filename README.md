@@ -1,8 +1,12 @@
 # Happy-gitting-
 
+hi there, happy to git with you!
+
 Just try out the git thing and enjoy gitting!
 
 Here is a cute dolphin:
+
+some things that are for markdown below
 
 ![A cute dolphi](cute-dolphin.jpeg)
 
